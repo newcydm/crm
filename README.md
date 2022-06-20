@@ -1,2 +1,3 @@
 # 技术栈
-mybatis+spring+springmvc
+前端：jsp+jstl
+后端：mybatis+spring+springmvc
